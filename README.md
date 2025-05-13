@@ -1,2 +1,5 @@
 # HLND2T_DiligentGraphics
-closed-source GoldSrc-like engine with DiligentGraphics as RHI.
+
+Closed-source GoldSrc-like engine with DiligentGraphics as RHI.
+
+Currently WIP
