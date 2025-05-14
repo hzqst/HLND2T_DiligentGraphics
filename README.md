@@ -6,6 +6,8 @@ This is a technical verification demo that completely overhaul the vanilla graph
 
 This will be ported to real GoldSrc and SvEngine once all features are stable.
 
+Download: https://github.com/hzqst/HLND2T_DiligentGraphics/releases
+
 ## Supported RHI:
 
 * D3D12
