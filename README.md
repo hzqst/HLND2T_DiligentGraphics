@@ -10,13 +10,13 @@ Download: https://github.com/hzqst/HLND2T_DiligentGraphics/releases
 
 ## Supported RHI:
 
-* D3D12
+* D3D12 (launch parameter: `-d3d12`)
 
-* D3D11
+* D3D11 (launch parameter: `-d3d11`)
 
-* Vulkan
+* Vulkan (launch parameter: `-vk`)
 
-* OpenGL
+* OpenGL (launch parameter: `-gl`)
 
 ## Following issues are accepted :
 
