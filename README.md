@@ -8,7 +8,7 @@ This will be ported to real GoldSrc and SvEngine once all features are stable.
 
 Download: https://github.com/hzqst/HLND2T_DiligentGraphics/releases
 
-## Supported RHI:
+## Supported backends:
 
 * D3D12 ( launch parameter: `-d3d12` )
 
