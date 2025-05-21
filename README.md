@@ -30,7 +30,7 @@ Download: https://github.com/hzqst/HLND2T_DiligentGraphics/releases
 
 ## Following issues are unaccepted :
 
-1. Performance issue
+1. Performance issue (* like why I can't get 600fps on 4k res or why I am getting stuttering)
 
 2. Feature request
 
