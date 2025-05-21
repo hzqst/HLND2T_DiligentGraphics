@@ -18,19 +18,21 @@ Download: https://github.com/hzqst/HLND2T_DiligentGraphics/releases
 
 * OpenGL ( launch parameter: `-gl` )
 
+* WebGPU ( launch parameter: `-webgpu` )
+
 ## Following issues are accepted :
 
-1. Graphics artfacts / glitch (* Your graphics card & graphics driver & the RHI you were running with, in detail)
+1. Graphics artfacts / glitch (* Your graphics card & graphics driver & the graphics backend you were running on, in detail)
 
 2. Fatal Error (with msgbox prompt) (* Please describe how to trigger the Fatal Error, in detail)
 
 3. Slience Crash (* Please describe how to trigger the crash, in detail)
 
-## Following issues are unaccepted and will be closed :
+## Following issues are unaccepted :
 
 1. Performance issue
 
-2. New feature request
+2. Feature request
 
 ## Screenshots
 
