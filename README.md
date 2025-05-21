@@ -28,6 +28,8 @@ Download: https://github.com/hzqst/HLND2T_DiligentGraphics/releases
 
 3. Slience Crash (* Please describe how to trigger the crash, in detail)
 
+4. Visual inconsistency with vanilla engine. (*Except dynamic lights)
+
 ## Following issues are unaccepted :
 
 1. Performance issue (* like why I can't get 600fps on 4k res or why I am getting stuttering)
